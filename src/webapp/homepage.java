@@ -6,4 +6,8 @@ public class homepage {
 
     //the navigation menu
 
+    // add logo
+
+
+
 }
